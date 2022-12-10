@@ -1,0 +1,25 @@
+.mode{
+    padding: 20px;
+    background-color: #fff;
+    width: 30%;
+}
+.back{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.button-container{
+    margin-top:30px;
+    display: flex;
+    gap:20px;
+    justify-content: flex-end;
+}
+.input{
+    width: 100%;
+}
